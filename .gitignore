@@ -1,0 +1,12 @@
+.vscode
+task54/bin
+task54/obj
+task56/bin
+task56/obj
+task58/bin
+task58/obj
+task60/bin
+task60/obj
+task62/bin
+task62/obj
+*.csproj
